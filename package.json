@@ -1,0 +1,15 @@
+{
+  "name": "json-cleaner",
+  "version": "1.0.0",
+  "description": "Parses, cleans, and responds with valid JSON",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Kirkwood <hello@adamkirkwood.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-json5": "^0.1.0"
+  }
+}
